@@ -1,0 +1,28 @@
+name: 10th Dot
+favicon: null
+layout_spectrum: 0.5668316136579961
+typography_spectrum: 0.8219647051300853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10283993720076978
+  lightness: 0.23264309531077743
+  saturation: 0.44632048020139337
+  rhythmicContrast: 0.20602569379843771
+purpose: []
