@@ -1,5 +1,6 @@
-name: 10th Dot
-favicon: null
+name: 10thDot
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8e5811-1eab-4599-a5b9-96a9ef3d8d92.jpg
 layout_spectrum: 0.5668316136579961
 typography_spectrum: 0.8219647051300853
 cta:
@@ -26,3 +27,33 @@ color:
   saturation: 0.44632048020139337
   rhythmicContrast: 0.20602569379843771
 purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJw3xMGklJk&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FsJw3xMGklJk&type=text%2Fhtml&key=b7d04c9b404c499eba89ee7072e1c4f7&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://youtube.com'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - ''
+      description: ''
+      '@type': VideoObject
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=sJw3xMGklJk&feature=youtu.be'
+      title: YouTube
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
