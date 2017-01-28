@@ -1,20 +1,4 @@
-name: 10thDot
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8e5811-1eab-4599-a5b9-96a9ef3d8d92.jpg
-layout_spectrum: 0.5668316136579961
 typography_spectrum: 0.8219647051300853
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,7 +10,27 @@ color:
   lightness: 0.23264309531077743
   saturation: 0.44632048020139337
   rhythmicContrast: 0.20602569379843771
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5668316136579961
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 10thDot
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 360°Integrity
+    url: 'https://thegrid.ai/360integrity/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8e5811-1eab-4599-a5b9-96a9ef3d8d92.jpg
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -37,23 +41,23 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=sJw3xMGklJk&feature=youtu.be'
+      keywords:
+        - ''
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      title: YouTube
+      '@type': VideoObject
+      app_links: []
       publisher:
         url: 'http://youtube.com'
         name: YouTube
         favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
         domain: www.youtube.com
-      keywords:
-        - ''
       description: ''
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=sJw3xMGklJk&feature=youtu.be'
-      title: YouTube
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+purpose: []
