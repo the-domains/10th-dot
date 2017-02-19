@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[10thDot]]></title>
+        <description><![CDATA[10thDot]]></description>
+        <link>http://10thdotmove.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Feb 2017 17:48:36 GMT</lastBuildDate>
+        <atom:link href="http://10thdotmove.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 19 Feb 2017 17:47:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Dandelion]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fad3fc9a0234870f686e1837e67af1f91e0ae62f.jpg" title="Dandelion" alt="Dandelion">]]></description>
+            <link>http://10thdotmove.com/dandelion/index.html</link>
+            <guid isPermaLink="false">878e56b6-2f7a-4f6b-9b3b-1a17f60901d8</guid>
+            <pubDate>Mon, 23 Jan 2017 08:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="http://www.10thdot.com/10thDot.com/Welcome_files/Slide2.jpg"></article>]]></description>
+            <link>http://www.10thdot.com/10thDot.com/Welcome.html</link>
+            <guid isPermaLink="false">ee790cc6-edb5-4535-8fbf-9e34331c29b3</guid>
+            <pubDate>Sun, 19 Feb 2017 17:47:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
